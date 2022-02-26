@@ -1,0 +1,21 @@
+.head{
+    font-size: 3rem;
+    /* margin: auto; */
+    margin-top: 1rem;
+    text-align: center;
+}
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* background-color: aqua; */
+}
+.card{
+    margin-top: 2rem;
+}
+.search{
+    width: 30%;
+    margin: auto;
+    margin-top: 1rem;
+    /* border: 3px solid black; */
+}

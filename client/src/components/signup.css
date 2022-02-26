@@ -1,0 +1,22 @@
+.signup{
+    width: 30vw;
+    position: absolute;
+    top: 10rem;
+    left: 35%;
+    margin: auto;
+    /* display: block; */
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 5px ridge black
+    /* box-shadow: 5px rgb(158, 151, 151); */
+
+}
+.head{
+    text-align: center;
+}
+.button{
+    /* margin: auto; */
+    text-align: center;
+    /* align-content: center; */
+
+}
